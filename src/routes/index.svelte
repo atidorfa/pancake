@@ -4,16 +4,18 @@
 </script>
 
 <svelte:head>
-	<title>Pancake • Charts for Svelte apps</title>
+	<title>Bundle</title>
 </svelte:head>
 
 <header>
 	<h1>
+		
 		Bundle Pancake analytics
 		<small>custom teams tackling your data science problems </small>
 	</h1>
 
 	<p>
+		
 		bundle will help you to get your engineering dream team.
 	</p>
 
@@ -24,6 +26,7 @@
 			>Here's how.</a
 		>
 	</p>
+	<img src="/static/stack-icon.svg.png" alt="icon" width="200" height="200"/>
 </header>
 
 <section class="hero">
