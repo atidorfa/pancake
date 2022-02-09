@@ -9,18 +9,16 @@
 
 <header>
 	<h1>
-		Pancake
-		<small>Responsive charts. JavaScript optional.</small>
+		Bundle Pancake analytics
+		<small>custom teams tackling your data science problems </small>
 	</h1>
 
 	<p>
-		Pancake is a charting library for <a href="https://svelte.dev">Svelte</a> applications that allows
-		you to visualize data with a combination of HTML, SVG and (soon) canvas/WebGL.
+		bundle will help you to get your engineering dream team.
 	</p>
 
 	<p>
-		Unlike most charting libraries, Pancake is designed with <em>server-side rendering</em> in mind,
-		meaning you can create beautiful responsive charts that may not even need JavaScript to render.
+		Unlike most freelance companies out there, bundle is designed with objective of solve all your design, development and deploy problems in one step.
 		<a
 			href="https://dev.to/richharris/a-new-technique-for-making-responsive-javascript-free-charts-gmp"
 			>Here's how.</a
